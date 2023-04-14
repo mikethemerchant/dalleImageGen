@@ -1,0 +1,23 @@
+{
+  "name": "dalleimagegen",
+  "version": "1.0.0",
+  "description": "console app to generate images with code",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikethemerchant/dalleImageGen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikethemerchant/dalleImageGen/issues"
+  },
+  "homepage": "https://github.com/mikethemerchant/dalleImageGen#readme",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
